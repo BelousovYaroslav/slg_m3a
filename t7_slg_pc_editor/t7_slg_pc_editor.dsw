@@ -1,0 +1,32 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "t7_slg_pc_editor"=.\t7_slg_pc_editor.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+    {648A5600-2C6E-101B-82B6-000000000014}
+    {8E27C92B-1264-101C-8A2F-040224009C02}
+    {20DD1B9E-87C4-11D1-8BE3-0000F8754DA1}
+}}}
+
+###############################################################################
+
