@@ -1,0 +1,35 @@
+Microsoft Developer Studio Workspace File, Format Version 6.00
+# WARNING: DO NOT EDIT OR DELETE THIS WORKSPACE FILE!
+
+###############################################################################
+
+Project: "slg2"=.\slg2.dsp - Package Owner=<4>
+
+Package=<5>
+{{{
+}}}
+
+Package=<4>
+{{{
+}}}
+
+###############################################################################
+
+Global:
+
+Package=<5>
+{{{
+}}}
+
+Package=<3>
+{{{
+	{D940E4C8-6079-11CE-88CB-0020AF6845F6}
+	{D940E4D2-6079-11CE-88CB-0020AF6845F6}
+	{B68DBFAB-16A0-11CE-80BF-0020AF31CEF9}
+	{D940E4BE-6079-11CE-88CB-0020AF6845F6}
+	{17301DA3-C84D-11CF-AE6F-0020AF31CEF9}
+	{2AFA9F10-0B6A-11D2-A250-00A024D8324D}
+}}}
+
+###############################################################################
+
